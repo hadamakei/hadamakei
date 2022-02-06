@@ -24,7 +24,6 @@ I'm Keila Hadama find out some info about me:
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="right" alt="pic" height="150" style="border-radius:5px;" src="https://external.fcgh19-1.fna.fbcdn.net/safe_image.php?d=AQFGAU-DeLnEElcR&w=600&h=313&url=https%3A%2F%2Fshare-cdn.picrew.me%2FshareImg%2Forg%2F202111%2F338224_V3WqAhdO.png&cfs=1&ext=jpg&_nc_eui2=AeH6nM1jTgjPxddLXC_pLyPHj0DjUPI9zQKPQONQ8j3NAu4D-16EJnxD7yizeAHmEOH2Sg7MwAXKzV6h82cBh3_4&_nc_oe=6f023&_nc_sid=06c271&ccb=3-5&_nc_hash=AQEjTlX11XHBkcJP" >
 </div>
  
   <br>
