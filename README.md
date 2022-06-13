@@ -5,7 +5,7 @@ I'm Keila Hadama find out some info about me:
 
 
 - 🔭 I’m currently seeking an opportunity as front-end web development
-- 🌱 📖 I’m currently learning HTML, CSS, JS ... at <a href="https://github.com/Laboratoria" target="_blank">Laboratoria Bootcamp</a>
+- 🌱 📖 I’m currently learning HTML, CSS, JS, React Js and more at <a href="https://github.com/Laboratoria" target="_blank">Laboratoria Bootcamp</a>
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I already had a job on gastronomy 🍽️
 - 🇧🇷 Location: Brazil - SP
